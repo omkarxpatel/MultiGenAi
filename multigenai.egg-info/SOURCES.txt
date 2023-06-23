@@ -1,0 +1,8 @@
+setup.py
+multigenai/__init__.py
+multigenai/multigenai.py
+multigenai.egg-info/PKG-INFO
+multigenai.egg-info/SOURCES.txt
+multigenai.egg-info/dependency_links.txt
+multigenai.egg-info/requires.txt
+multigenai.egg-info/top_level.txt

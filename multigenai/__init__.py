@@ -1,0 +1,1 @@
+from multigenai import GenAI
